@@ -9,6 +9,12 @@ h6 {
 
 h1 {
   font-size: 50px;
+  font-weight: normal;
+}
+
+.subHeaders {
+  font-weight: 300;
+  font-size: 42px;
 }
 
 body {
@@ -19,5 +25,15 @@ body {
 
 .downloadLinks {
   color: aquamarine;
-  font-size: 15px;
+  font-size: 16px;
+}
+
+p,
+img {
+  color: grey;
+  font-size: 21px;
+}
+
+#copright {
+  text-align: right;
 }
